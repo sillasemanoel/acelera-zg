@@ -1,0 +1,13 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  font-size: 24px;
+  color: #333;
+}
+
+#mensagemContainer {
+  font-size: 18px;
+}
