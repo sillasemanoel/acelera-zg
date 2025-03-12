@@ -1,3 +1,28 @@
-<h1 align="center">
-    <img src="./acelera-zg.png" >
-</h1>
+# Acelera ZG (JavaScript)
+
+<img src="./acelera-zg.png" >
+
+## Descrição
+
+Esta aplicação foi desenvolvida como parte de um desafio para uma vaga na Acelera ZG. O objetivo é reproduzir a música "Erguei As Mãos" do Padre Marcelo Rossi, utilizando JavaScript para evitar a repetição de trechos da música. A aplicação permite escolher entre reproduzir a música inteira ou apenas partes específicas, exibindo as letras dinamicamente na tela.
+
+## Ferramentas
+
+- HTML
+- CSS
+- JavaScript
+
+## Aprendizados importantes
+
+- Manipulação do DOM
+- Funções e escopos
+- Estruturas de controle
+- Eventos e interatividade
+
+## Funcionalidades
+
+- Reprodução de música;
+- Escolha de reprodução completa ou parcial;
+- Exibição de mensagens dinâmicas;
+- Contadores de interações;
+- Estilização básica com CSS;
